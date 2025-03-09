@@ -1,5 +1,5 @@
-# Software Engineer Affiliate Program Hub
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# A Social Ninja Developers Network
+# Affiliate Program Hub for Software Ingineering Related Resources[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Welcome to the Software Engineer's Affiliate Program Hub! This repository serves as a comprehensive resource for software engineers interested in exploring and promoting affiliate programs related to their field. Whether you're a seasoned developer or just starting out, this hub provides valuable insights, tools, and a community to help you maximize your earning potential through affiliate marketing. You can say this repository is a comprehensive guide to affiliate programs for software engineers.
 
